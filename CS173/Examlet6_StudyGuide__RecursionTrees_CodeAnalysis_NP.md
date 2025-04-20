@@ -2,11 +2,6 @@
 
 Spring, 2025
 
-- skills list screenshot
-    
-    ![Screenshot 2025-04-19 at 8.08.32 PM.png](CS%20173%20Examlet%206%20Study%20Guide%20Recursion%20Trees,%20Code%201da42e50f1858048ade6f51bdae09889/Screenshot_2025-04-19_at_8.08.32_PM.png)
-    
-
 **Examlet 6 Skills:**
 
 ---
